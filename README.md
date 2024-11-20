@@ -27,7 +27,5 @@ List any libraries or dependencies required by your project and how to install t
 ## License
 This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE file for details.
 
-## Contact
-For any queries or feedback regarding this project, feel free to contact me at [Your Email].
 
 
