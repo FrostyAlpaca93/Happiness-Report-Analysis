@@ -24,8 +24,5 @@ List any libraries or dependencies required by your project and how to install t
 - Seaborn
 
 
-## License
-This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE file for details.
-
 
 
