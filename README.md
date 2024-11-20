@@ -17,10 +17,8 @@ To view and run the notebook:
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
 ## Dependencies
-List any libraries or dependencies required by your project and how to install them. For example:
 
 - Pandas
-- Matplotlib
 - Seaborn
 
 
